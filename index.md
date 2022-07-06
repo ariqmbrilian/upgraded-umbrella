@@ -1,13 +1,6 @@
 ## UPAYA MENGATASI KESULITAN PEDANGANG PASAR DALAM
 PEMBELIAN STOCK DAGANGAN
 
-You can use the [editor on GitHub](https://github.com/ariqmbrilian/upgraded-umbrella/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 BAB I
@@ -18,6 +11,7 @@ dibahas dalam tulisan ini adalah
 a.Bagaimana cara bertransaksi jarak jauh?
 b.Bagaimana mengatasi sesuatu yang susah menjadi mudah?
 c.Apakah sebuah aplikasi dapat membantu?
+
 1.2. Latar Belakang
 Pasar merupakan sebuah tempat jalur transaksi terbesar karena di dalamnya
 terdapat sebuah proses jual beli yang dilakukan oleh pedagang dan pembeli.
@@ -31,11 +25,12 @@ Aplikasi ini dibuat untuk membantu para pedagang pasar yang diharapkan
 dapat mempermudah para pedagang karena pedagang bisa memesan di mana saja
 dan kapan saja tanpa perlu menghabiskan waktu ke pasar induk.BAB II
 PEMBAHASAN
-2.1.
-Mind Mapping
+
+2.1.Mind Mapping
+
 2.2. Kajian Teori
-2.2.1.
-Pengertian Pasar
+
+2.2.1. Pengertian Pasar
 Secara sempit pasar dapat diartikan sebagai tempat pertemuan
 penjual dan pembeli untuk melakukan transaksi jual beli barang atau jasa.
 Secara luas pasar merupakan proses dimana penjual dan pembeli saling
@@ -52,7 +47,8 @@ adalah tempat atau keadaan yang mempertemukan antara permintaan
 (pembeli) dan penawaran (penjual) untuk setiap jenis barang, jasa, atau
 sumber daya. Pembeli meliputi konsumen yang membutuhkan barang dan
 jasa, sedangkan bagi industri membutuhkan tenaga kerja, modal dan
-barang baku produksi baik untuk memproduksi barang maupun jasa.Penjual termasuk juga untuk industri menawarkan hasil produk atau jasa
+barang baku produksi baik untuk memproduksi barang maupun jasa. 
+Penjual termasuk juga untuk industri menawarkan hasil produk atau jasa
 yang diminta oleh pembeli. Pekerja menjual tenaga dan keahlianya,
 pemilik lahan menjual atau menyewakan asetnya, sedangkan pemilik
 modal menawarkan pembagian keuntungan dari kegiatan bisnis tertentu.
@@ -74,8 +70,8 @@ jalan.Selanjutnya
 tersebutmenempati
 bangunanbangunan dengan kondisi bangunan temporer, semi permanen
 ataupun Permanen
-2.2.2.
-Pengertian Aplikasi dan IOT
+
+2.2.2. Pengertian Aplikasi dan IOT
 Secara umum, Aplikasi adalah suatu program yang berbentuk
 perangkat lunak (Software) yang berjalan di suatu sistem tertentu yang saat
 sangat berguna dalam membantu berbagai aktivitas yang dilakukan oleh
@@ -88,8 +84,9 @@ memenuhi kebutuhan akan berbagai kegiatan atau pekerjaan, seperti
 kegiatan periklanan, pelayanan masyarakat, perniagaan, dan lainnya.
 IOT atau Internet Of Thinking sangat berperan di aplikasi pada era
 globalisasi ini, IOT adalah sebuah konsep yang memiliki tujuan
-memperluas manfaat dari konektivitas internet yang tersambung secaraterus-menerus.Melalui internet kita bisa melakukan berbagi data, remote
-control, dan berbagai hal.
+memperluas manfaat dari konektivitas internet yang tersambung secaraterus-menerus.
+Melalui internet kita bisa melakukan berbagi data, remote control, dan berbagai hal.
+
 2.2.3. Peran Aplikasi Untuk Kegiatan Di Pasar
 Pasar adalah wadah untuk segala aktivitas ekonomi masyarakat.
 Pasar akan berjalan dengan baik apabila distribusi barang dan jasa berjalan
@@ -101,7 +98,9 @@ sama pentingnya satu pihak menghasilkan, sedangkan pihak lain
 membutuhkanya. Aplikasi yang membawa konsep IOT ini dapat
 membantu pedagang untuk menyuplai barang dagangannya dengan
 mudah.
+
 2.3. Penelitian
+
 2.3.1.
 Jenis Penelitian
 Penelitian lapangan (field research) dipilih pada penelitian kali ini
@@ -113,12 +112,13 @@ tepat digunakan karena metode ini merupakan metode untuk menemukan
 realita yang terjadi di masyarakat Kelurahan Yosomulyo, Kota Metro yang
 berkaitan dengan Potensi Pasar Tradisional Dalam Peningkatan
 Perekonomian Masyarakat.
-2.3.2.
-Sifat Penelitian
+
+2.3.2. Sifat Penelitian
 Penelitian ini bersifat deskriptif kualitatif yaitu, data yang
 digambarkan dengan kata-kata atau kalimat-kalimat yang dipisah-
 pisahkan menurut kategori untuk memperoleh kesimpulan. Jadi, deskriptif
-kualitatif adalah penelitian yang menggambarkan sifat sesuatu secaraalamiah dengan kata-kata atau kalimat yang dipisah-pisahkan menurut
+kualitatif adalah penelitian yang menggambarkan sifat sesuatu secaraalamiah dengan 
+kata-kata atau kalimat yang dipisah-pisahkan menurut
 kategori untuk mendapatkan kesimpulan. Deskriptif kualitatif pada
 penelitian ini yaitu penelitian yang berusaha mengungkap keadaan yang
 terjadi di lapangan secara alamiah dan berupaya menguraikan atau
@@ -130,19 +130,23 @@ atau daerah tertentu. Maksudnya dalam penelitian ini adalah memaparkan
 data-data hasil penelitian di lapangan tentang potensi pasar tradisional
 dalam peningkatan perekonomian khususnya Masyarakat Yosomulyo
 Kota Metro.
+
 2.4. Bukti Pendukung
 Berikut beberapa bukti yang mendukung dari penelitian ini:
 Menurut Ibu Fika Martini dari Pasar Rame Kali Baru Teluk Naga, “Saya harus
-bolak-balik ke pasar induk untuk beli bahan dagangan”.Menurut Bapak Ari dari Pasar Perumahan Garuda, “Pasar Induk disini jauh,saya
+bolak-balik ke pasar induk untuk beli bahan dagangan”.Menurut Bapak Ari dari Pasar Perumahan Garuda, 
+“Pasar Induk disini jauh,saya
 kadang kecapean harus berdagang dan juga membeli bahan dagangan”
 Menurut Mas Kanta dari Pasar Rame Kalibaru Teluk Naga, “Saya kadang
 kerepotan harus ke pasar induk”.
+
 2.5. Argumen Yang Masuk Akal
 Tidak banyak yang bisa dilakukan ketika seseorang memiliki waktu yang
 terbatas, disaat yang sama kita harus melakukan hal lain dan beristirahat. dengan
 dibuatnya aplikasi ini diharapkan para pedagang dapat memaksimalkan waktu
 pembelian dan dapat meminimalisir biaya yang dibutuhkan untuk membeli stock
 karena harus pergi ke pasar induk.
+
 2.6. Ide Inovasi Atau Kreativitas
 a.
 Mengintegrasikan ke online payment gateway sebagai bagian peningkatan
@@ -152,6 +156,7 @@ b.Mendigitalisasi proses tersebut.
 c.Memberikan akses langsung pedagang ke petani.
 d.Memutus tali distribusi yang panjang.BAB III
 PENUTUP
+
 3.1.
 Kesimpulan
 Teknologi membuat manusia dapat melakukan banyak hal tanpa perlu
